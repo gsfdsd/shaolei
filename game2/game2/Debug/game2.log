@@ -1,0 +1,7 @@
+﻿  game.c
+C:\Users\25584\Desktop\game2\game2\game.c(1,11): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\25584\Desktop\game2\game2\game.c(75,23): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+  test.c
+C:\Users\25584\Desktop\game2\game2\test.c(1,11): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  正在生成代码...
+  game2.vcxproj -> C:\Users\25584\Desktop\game2\game2\Debug\game2.exe
